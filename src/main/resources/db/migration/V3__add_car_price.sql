@@ -1,0 +1,1 @@
+alter table `car` add column price integer
